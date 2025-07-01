@@ -8,9 +8,6 @@ A GUI-based login system using Java Swing with background image, button handling
 - Cancel & Signup buttons
 - Opens `Home` frame after successful login
 
-## Screenshot
-![Screenshot](resources/bk6.jpeg)
-
 ## Run
 1. Open in NetBeans or any Java IDE
 2. Run `LoginForm.java`
